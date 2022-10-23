@@ -1,6 +1,6 @@
 package tax.skill.sync.event.events;
 
-import tax.skill.sync.event.events.EventStage;
+import tax.skill.sync.event.EventStage;
 import tax.skill.sync.features.Feature;
 import tax.skill.sync.features.setting.Setting;
 import net.minecraftforge.fml.common.eventhandler.Cancelable;
