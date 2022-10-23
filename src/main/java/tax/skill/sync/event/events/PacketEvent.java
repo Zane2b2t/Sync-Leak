@@ -1,8 +1,8 @@
 package tax.skill.sync.event.events;
 
-import tax.skill.sync.event.EventStage;
 import net.minecraft.network.Packet;
 import net.minecraftforge.fml.common.eventhandler.Cancelable;
+import tax.skill.sync.event.EventStage;
 
 public class PacketEvent
         extends EventStage {
